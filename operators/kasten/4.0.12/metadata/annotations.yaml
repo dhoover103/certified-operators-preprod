@@ -10,5 +10,4 @@ annotations:
   operators.operatorframework.io.test.config.v1: tests/scorecard/
   operators.operatorframework.io.test.mediatype.v1: scorecard+v1
   operators.operatorframework.io.bundle.channel.default.v1: stable
-  "olm.properties": '[{"type": "olm.maxOpenShiftVersion", "value": "v4.8"}]'
-  com.redhat.openshift.versions='v4.8'
+  com.redhat.openshift.versions: v4.8

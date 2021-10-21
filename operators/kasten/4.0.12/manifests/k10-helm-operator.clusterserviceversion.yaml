@@ -1907,5 +1907,4 @@ spec:
   maturity: stable
   provider:
     name: Kasten by Veeam, kasten.io
-  version: 4.0.12-6
-  replaces: k10-helm-operator.2.5.18
+  version: 4.0.12

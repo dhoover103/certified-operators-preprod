@@ -1661,7 +1661,7 @@ metadata:
     containerImage: registry.connect.redhat.com/kasten/k10-operator:4.0.12.1
     createdAt: Mon Sep 13 23:43:47 UTC 2021
     support: support@kasten.io
-  name: k10-kasten-operator.4.0.12-6
+  name: k10-kasten-operator.4.0.12
   namespace: placeholder
 spec:
   apiservicedefinitions: {}
